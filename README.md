@@ -1,1 +1,1 @@
-# app-premiums
+# app-premium
